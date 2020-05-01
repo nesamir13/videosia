@@ -5,7 +5,9 @@
   font-weight: 400;
   src: local('Material Icons'), local('MaterialIcons-Regular'), url(../fonts/icon.woff2) format('woff2');
 }
-
+.parrafo{
+  font-size: 12px;
+}
 .material-icons {
   font-family: 'Material Icons';
   font-weight: normal;
